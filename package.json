@@ -176,14 +176,34 @@
                 "homepage": "https://blog.52nyg.com/",
                 "preview_url": "",
                 "preview_img_url": "https://apps.xarr.cn/assets/images/wxpay.png",
-                "external_support_url": "https://github.com/xiaoyi510/xarr-pay-merchant ",
+                "external_support_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
                 "external_repository_url": "",
                 "update_time": 1729045443,
                 "version": "1.0.2",
                 "download_url": "https://github.com/xiaoyi510/xarr-pay-merchant/releases/download/1.0.2/yun_wechat_uos.zip",
                 "download_filename": "yun_wechat_uos.zip",
                 "md5": "99ff88900e4d11bafa79908e4e1dd2dc"
+            },
+            {
+                "uuid": "c221f568-5110-489c-92b6-fde78f1a24ac",
+                "name": "jk_lakala",
+                "title": "监控插件 - 拉卡拉",
+                "type": 1,
+                "description": "小工具",
+                "author": "包子",
+                "homepage": "https://blog.52nyg.com/",
+                "preview_url": "",
+                "preview_img_url": "https://apps.xarr.cn/assets/images/lakala.png",
+                "external_support_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
+                "external_repository_url": "",
+                "update_time": 1729668022,
+                "version": "1.0.0",
+                "download_url": "https://github.com/xiaoyi510/xarr-pay-merchant/releases/download/1.0.0/jk_lakala.zip",
+                "download_filename": "jk_lakala.zip",
+                "md5": "66882e3271696093d31f94abf173ea52"
             }
+
+            
         ]
     }
 }
