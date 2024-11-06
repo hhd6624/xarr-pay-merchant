@@ -219,6 +219,24 @@
                 "download_url": "https://github.com/xiaoyi510/xarr-pay-merchant/releases/download/1.0.0/yun_qqpay.zip",
                 "download_filename": "yun_qqpay.zip",
                 "md5": "5108f9dee4acf4ddabbf7584b99cb08c"
+            },
+            {
+                "uuid": "9c748f77-3e03-49bf-96d8-7d2907c19234",
+                "name": "yun_wechat_imac",
+                "title": "微信-IMAC",
+                "type": 1,
+                "description": "微信-IMAC",
+                "author": "萌新",
+                "homepage": "https://blog.52nyg.com",
+                "preview_url": "",
+                "preview_img_url": "https://imgcache.gtimg.cn/channel/qpay/buss/asset/pay/img/global/header_logo.png",
+                "external_support_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
+                "external_repository_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
+                "update_time": 1730910465,
+                "version": "1.0.0",
+                "download_url": "https://github.com/xiaoyi510/xarr-pay-merchant/releases/download/1.0.0/yun_wechat_imac.zip",
+                "download_filename": "yun_wechat_imac.zip",
+                "md5": "5108f9dee4acf4ddabbf7584b99cb08c"
             }
 
             
