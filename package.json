@@ -214,11 +214,11 @@
                 "preview_img_url": "https://imgcache.gtimg.cn/channel/qpay/buss/asset/pay/img/global/header_logo.png",
                 "external_support_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
                 "external_repository_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
-                "update_time": 1730826431,
+                "update_time": 1730942823,
                 "version": "1.0.0",
                 "download_url": "https://github.com/xiaoyi510/xarr-pay-merchant/releases/download/1.0.0/yun_qqpay.zip",
                 "download_filename": "yun_qqpay.zip",
-                "md5": "5108f9dee4acf4ddabbf7584b99cb08c"
+                "md5": "d2f06f68f0ac5a1b338c271a6970179a"
             },
             {
                 "uuid": "9c748f77-3e03-49bf-96d8-7d2907c19234",
@@ -232,11 +232,11 @@
                 "preview_img_url": "https://imgcache.gtimg.cn/channel/qpay/buss/asset/pay/img/global/header_logo.png",
                 "external_support_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
                 "external_repository_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
-                "update_time": 1730910465,
+                "update_time": 1730942823,
                 "version": "1.0.0",
                 "download_url": "https://github.com/xiaoyi510/xarr-pay-merchant/releases/download/1.0.0/yun_wechat_imac.zip",
                 "download_filename": "yun_wechat_imac.zip",
-                "md5": "5108f9dee4acf4ddabbf7584b99cb08c"
+                "md5": "68822733065130b2ff11dacb6185c86e"
             }
 
             
