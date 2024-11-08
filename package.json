@@ -34,11 +34,11 @@
                 "preview_img_url": "https://apps.xarr.cn/assets/images/wxpay.png",
                 "external_support_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
                 "external_repository_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
-                "update_time": 1731053118,
+                "update_time": 1731082911,
                 "version": "1.4.2",
                 "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/jk_wechat.zip",
                 "download_filename": "jk_wechat.zip",
-                "md5": "f926de2b7a8b7d712cf8f10da23839ab"
+                "md5": "a4e21438c888c97768dfebebfd83aba5"
             },
             {
                 "uuid": "2a50db10-3ef6-4a57-a107-447c0bb28af0",
