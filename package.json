@@ -237,7 +237,25 @@
                 "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/yun_wechat_imac.zip",
                 "download_filename": "yun_wechat_imac.zip",
                 "md5": "a0eb9a702e6ca43fee0a5d432c19463b"
-            }
+            }, 
+            {
+                "uuid": "9c962a5c-3234-4c20-ab5f-34092ec5aff2",
+                "name": "jk_wmwechat_message",
+                "title": "监控插件 - 微信公众号/小程序",
+                "type": 1,
+                "description": "微信公众号模板消息/小程序消息 闲蛋插件",
+                "author": "闲蛋",
+                "homepage": "https://www.xdau.cn/",
+                "preview_url": "",
+                "preview_img_url": "https://cdn.xdau.cn/logo1-1.svg",
+                "external_support_url": "https://www.xdau.cn/",
+                "external_repository_url": "",
+                "update_time": 1732083583,
+                "version": "1.4.4",
+                "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/jk_wmwechat_message.zip",
+                "download_filename": "jk_wmwechat_message.zip",
+                "md5": "52f317947761658742b11e2cdf939d59"
+            },
         ]
     }
 }
