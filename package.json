@@ -250,11 +250,11 @@
                 "preview_img_url": "https://cdn.xdau.cn/logo1-1.svg",
                 "external_support_url": "https://www.xdau.cn/",
                 "external_repository_url": "",
-                "update_time": 1732083583,
+                "update_time": 1732084221,
                 "version": "1.4.4",
                 "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/jk_wmwechat_message.zip",
                 "download_filename": "jk_wmwechat_message.zip",
-                "md5": "52f317947761658742b11e2cdf939d59"
+                "md5": "5f78b148af3502f50b36c1e68a7cfdd1"
             }
         ]
     }
