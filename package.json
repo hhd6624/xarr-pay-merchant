@@ -178,11 +178,11 @@
                 "preview_img_url": "https://apps.xarr.cn/assets/images/wxpay.png",
                 "external_support_url": "https://github.com/xiaoyi510/xarr-pay-merchant",
                 "external_repository_url": "",
-                "update_time": 1732087001,
-                "version": "1.4.4",
+                "update_time": 1732183244,
+                "version": "1.4.5",
                 "download_url": "https://raw.githubusercontent.com/xiaoyi510/xarr-pay-merchant/refs/heads/master/plugins/yun_wechat_uos.zip",
                 "download_filename": "yun_wechat_uos.zip",
-                "md5": "bdeb7309a2235a084356aad5e4b80d23"
+                "md5": "d695acda525b0bb3bfd002be70cdc649"
             },
             {
                 "uuid": "c221f568-5110-489c-92b6-fde78f1a24ac",
