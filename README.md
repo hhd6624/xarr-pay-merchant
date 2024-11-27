@@ -4,12 +4,6 @@
 
 **请勿使用于非法用途,开源只为学习使用,如使用非法用途,后果自行承担**
 
-
-## 使用方式
-应用源: [`https://raw.githubusercontent.com/hhd6624/xarr-pay-merchant/refs/heads/master/package.json`](https://raw.githubusercontent.com/hhd6624/xarr-pay-merchant/refs/heads/master/package.json)
-
-注: 国内访问可以使用Github加速器!
-
 ## 插件开发
 
 使用Lua语言进行开发
